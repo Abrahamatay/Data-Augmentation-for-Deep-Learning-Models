@@ -1,4 +1,4 @@
-# Data Augmentation Implementations for Deep Learning Models
+# Data Augmentation for Deep Learning Models
 Multimedia Information Systems Final Project
 
 EGE University – Electrical & Electronics Engineering
@@ -48,8 +48,8 @@ Clear improvement in reducing overfitting and enhancing generalization.
 
 Notes
 
-Project developed as part of EGE University Multimedia Information Systems course (EEE, 2024–25).
+-Project developed as part of EGE University Multimedia Information Systems course (EEE, 2024–25).
 
-Team members: İbrahim Halil Atay & Emir Kıvrak.
+-Team members: İbrahim Halil Atay & Emir Kıvrak.
 
-Tested on Google Colab environment.
+-Tested on Google Colab environment.
